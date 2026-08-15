@@ -1,7 +1,9 @@
 # CMZN Consulting
 
-**Proprietary Trading & Web3 Research**
+**Proprietary trading.** Crypto derivatives. Volatility.
 
-All quantitative models, risk engines, and software infrastructure are engineered and maintained strictly in-house.
+The desk is long gamma: realised move against what the smile prepaid. Hedging and synthetic liquidity around a single options book are automated. Models, risk, and the software that carries them are engineered in-house.
 
-(We started making alpha-neutralized versions of some of the components our internals use publicly available to demonstrate the actuality of claimed expertise and know-how, trade secrets redacted before publishing! All MIT licensed!)
+Selected internals are published under MIT — alpha-neutralized, trade secrets redacted — so the claimed expertise is inspectable.
+
+TypeScript · Erlang/OTP · Haskell · Zig
