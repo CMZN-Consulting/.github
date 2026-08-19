@@ -1,0 +1,44 @@
+# ══════════════════════════════════════════
+# Allow-list — nothing else is committed
+# ══════════════════════════════════════════
+*
+!*/
+
+# ── Corpus ───────────────────────────────
+!*.md
+!*.sh
+!*.json
+!*.yaml
+!*.yml
+!*.html
+!*.js
+!*.jsx
+!*.mjs
+!*.cjs
+!*.ts
+!*.tsx
+!*.mts
+!*.cts
+!*.pdf
+!*.xlsx
+!*.xls
+!*.xlsm
+
+# ── Repo meta ────────────────────────────
+!.gitignore
+!bun.lock
+
+# ── Never ────────────────────────────────
+node_modules/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+.idea/
+.obsidian/
+.claude/
+.cursor/
+*.log
+*.swp
+*.swo
+*~

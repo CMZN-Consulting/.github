@@ -1,0 +1,23 @@
+{
+  "name": "cmzn-consulting-github",
+  "private": true,
+  "description": "CMZN Consulting GitHub organization profile.",
+  "scripts": {
+    "format": "prettier --write \"**/*.{md,sh,json,yml,yaml,html,js,jsx,mjs,cjs,ts,tsx,mts,cts}\"",
+    "format:check": "prettier --check \"**/*.{md,sh,json,yml,yaml,html,js,jsx,mjs,cjs,ts,tsx,mts,cts}\""
+  },
+  "prettier": {
+    "semi": true,
+    "trailingComma": "all",
+    "singleQuote": false,
+    "printWidth": 100,
+    "tabWidth": 2,
+    "plugins": [
+      "prettier-plugin-sh"
+    ]
+  },
+  "devDependencies": {
+    "prettier": "^3.9.6",
+    "prettier-plugin-sh": "^0.19.0"
+  }
+}
