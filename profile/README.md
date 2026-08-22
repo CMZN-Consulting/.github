@@ -43,13 +43,13 @@ are clean enough to show.
 
 ## 🧰 Stack
 
-|     | Layer       | Languages               |
-| --- | ----------- | ----------------------- |
-| ⚙️  | Execution   | Bun, Rust               |
-| 🗄️  | State       | Erlang/OTP              |
-| 🧮  | Kernels     | Haskell                 |
-| 🔬  | Research    | Python, Erlang, Haskell |
-| 🖥️  | Operator UI | Bun                     |
+|     | Layer       | Languages               | Runtimes |
+| --- | ----------- | ----------------------- | -------- |
+| ⚙️  | Execution   | TypeScript, Rust        | Bun      |
+| 🗄️  | State       | Erlang                  | OTP      |
+| 🧮  | Kernels     | Haskell                 |          |
+| 🔬  | Research    | Python, Erlang, Haskell |          |
+| 🖥️  | Operator UI | TypeScript              | Bun      |
 
 ## ⚖️ License
 
