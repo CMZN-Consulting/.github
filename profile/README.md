@@ -49,7 +49,7 @@ are clean enough to show.
 | 🗄️  | State       | Erlang                  | OTP      |
 | 🧮  | Kernels     | Haskell                 |          |
 | 🔬  | Research    | Python, Erlang, Haskell |          |
-| 🖥️  | Operator UI | TypeScript              | Bun      |
+| 🖥️  | Operator UI | TypeScript, Svelte      | Bun      |
 
 ## ⚖️ License
 
