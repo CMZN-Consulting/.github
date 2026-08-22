@@ -45,11 +45,11 @@ are clean enough to show.
 
 |     | Layer       | Languages               |
 | --- | ----------- | ----------------------- |
-| ⚙️  | Execution   | TypeScript, Zig         |
+| ⚙️  | Execution   | Bun, Rust               |
 | 🗄️  | State       | Erlang/OTP              |
 | 🧮  | Kernels     | Haskell                 |
 | 🔬  | Research    | Python, Erlang, Haskell |
-| 🖥️  | Operator UI | TypeScript              |
+| 🖥️  | Operator UI | Bun                     |
 
 ## ⚖️ License
 
