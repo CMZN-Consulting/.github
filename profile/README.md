@@ -22,7 +22,7 @@ underlyings. Models, risk, and the software that carries them are built here.
 | --- | -------------------------------------------------------------------------------------------------------------------------------- |
 | 📚  | One options inventory. Automation does not trade options; it harvests the book.                                                  |
 | ⚡  | Hedge the residual delta. Quote a synthetic market around the same underlyings.                                                  |
-| 💰  | P&L is realised volatility beating implied and spread capture; maker rebates when eligible — not a directional call on the coin. |
+| 💰  | P&L is realised volatility beating implied, spread capture, and tail capture; maker rebates when eligible — not a directional call on the coin. |
 
 ## 🛠️ In-house
 
