@@ -18,11 +18,11 @@ underlyings. Models, risk, and the software that carries them are built here.
 
 ## 📈 Desk
 
-|     | What                                                                             |
-| --- | -------------------------------------------------------------------------------- |
-| 📚  | One options inventory. Automation does not trade options; it harvests the book.  |
-| ⚡  | Hedge the residual delta. Quote a synthetic market around the same underlyings.  |
-| 💰  | P&L is realised volatility beating implied — not a directional call on the coin. |
+|     | What                                                                                                 |
+| --- | ---------------------------------------------------------------------------------------------------- |
+| 📚  | One options inventory. Automation does not trade options; it harvests the book.                      |
+| ⚡  | Hedge the residual delta. Quote a synthetic market around the same underlyings.                      |
+| 💰  | P&L is realised volatility beating implied, plus maker rebates — not a directional call on the coin. |
 
 ## 🛠️ In-house
 
@@ -43,13 +43,13 @@ are clean enough to show.
 
 ## 🧰 Stack
 
-|     | Layer       | Languages               |
-| --- | ----------- | ----------------------- |
-| ⚙️  | Execution   | TypeScript, Zig         |
-| 🗄️  | State       | Erlang/OTP              |
-| 🧮  | Kernels     | Haskell                 |
-| 🔬  | Research    | Python, Erlang, Haskell |
-| 🖥️  | Operator UI | TypeScript              |
+|     | Layer       | Languages               | Runtimes |
+| --- | ----------- | ----------------------- | -------- |
+| ⚙️  | Execution   | TypeScript, Rust        | Bun      |
+| 🗄️  | State       | Erlang                  | BEAM     |
+| 🧮  | Kernels     | Haskell                 | n/a      |
+| 🔬  | Research    | Python, Erlang, Haskell | CPython, BEAM |
+| 🖥️  | Operator UI | TypeScript, Svelte      | Bun, Browser |
 
 ## ⚖️ License
 
