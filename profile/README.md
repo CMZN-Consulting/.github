@@ -6,7 +6,7 @@ Long gamma: the world moves more than the smile prepaid. One options book.
 Automation hedges the residual and quotes a synthetic market around the same
 underlyings. Models, risk, and the software that carries them are built here.
 
-```
+```text
 📚  desk options book
           │
           ├── ⚡ automated hedge
