@@ -47,8 +47,8 @@ are clean enough to show.
 | --- | ----------- | ----------------------- | -------- |
 | ⚙️  | Execution   | TypeScript, Rust        | Bun      |
 | 🗄️  | State       | Erlang                  | BEAM     |
-| 🧮  | Kernels     | Haskell                 |          |
-| 🔬  | Research    | Python, Erlang, Haskell |          |
+| 🧮  | Kernels     | Haskell                 | n/a      |
+| 🔬  | Research    | Python, Erlang, Haskell | CPython, BEAM |
 | 🖥️  | Operator UI | TypeScript, Svelte      | Bun      |
 
 ## ⚖️ License
