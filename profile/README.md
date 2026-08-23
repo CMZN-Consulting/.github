@@ -18,11 +18,11 @@ underlyings. Models, risk, and the software that carries them are built here.
 
 ## 📈 Desk
 
-|     | What                                                                                                 |
-| --- | ---------------------------------------------------------------------------------------------------- |
-| 📚  | One options inventory. Automation does not trade options; it harvests the book.                      |
-| ⚡  | Hedge the residual delta. Quote a synthetic market around the same underlyings.                      |
-| 💰  | P&L is realised volatility beating implied, plus maker rebates — not a directional call on the coin. |
+|     | What                                                                                                                             |
+| --- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 📚  | One options inventory. Automation does not trade options; it harvests the book.                                                  |
+| ⚡  | Hedge the residual delta. Quote a synthetic market around the same underlyings.                                                  |
+| 💰  | P&L is realised volatility beating implied and spread capture; maker rebates when eligible — not a directional call on the coin. |
 
 ## 🛠️ In-house
 
