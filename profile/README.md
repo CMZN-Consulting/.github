@@ -45,7 +45,7 @@ are clean enough to show.
 
 |     | Layer       | Languages               | Runtimes      |
 | --- | ----------- | ----------------------- | ------------- |
-| ⚙️  | Execution   | TypeScript, Rust        | Bun           |
+| ⚙️  | Execution   | TypeScript, Zig         | Bun           |
 | 🗄️  | State       | Erlang                  | BEAM          |
 | 🧮  | Kernels     | Haskell                 | n/a           |
 | 🔬  | Research    | Python, Erlang, Haskell | CPython, BEAM |
