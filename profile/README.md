@@ -18,10 +18,10 @@ underlyings. Models, risk, and the software that carries them are built here.
 
 ## 📈 Desk
 
-|     | What                                                                                                                             |
-| --- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 📚  | One options inventory. Automation does not trade options; it harvests the book.                                                  |
-| ⚡  | Hedge the residual delta. Quote a synthetic market around the same underlyings.                                                  |
+|     | What                                                                                                                                            |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📚  | One options inventory. Automation does not trade options; it harvests the book.                                                                 |
+| ⚡  | Hedge the residual delta. Quote a synthetic market around the same underlyings.                                                                 |
 | 💰  | P&L is realised volatility beating implied, spread capture, and tail capture; maker rebates when eligible — not a directional call on the coin. |
 
 ## 🛠️ In-house
@@ -38,8 +38,12 @@ The interesting pieces stay closed. What we can strip of alpha, we publish.
 ## 📦 Open source
 
 Selected internals, MIT licensed — alpha-neutralized, trade secrets redacted —
-so the claimed expertise is inspectable. No links yet; they land here when they
-are clean enough to show.
+so the claimed expertise is inspectable.
+
+- **[memory-bank](https://github.com/CMZN-Consulting/memory-bank)**: LLM "agent" instances memory bank.
+- **[typify](https://github.com/CMZN-Consulting/typify)**: A small self-declaring type system.
+- **[black76-gleam](https://github.com/CMZN-Consulting/black76-gleam)**: Black-76 option pricer in Gleam.
+- **[interfaces](https://github.com/CMZN-Consulting/interfaces)** & **[mundus](https://github.com/CMZN-Consulting/mundus)**
 
 ## 🧰 Stack
 
