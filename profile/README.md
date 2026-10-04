@@ -65,4 +65,4 @@ done yet.
 
 ## ⚖️ License
 
-Proprietary. © CMZN Consulting LTD. All rights reserved.
+Proprietary. © CMZN LTD. All rights reserved.
